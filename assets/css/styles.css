@@ -248,6 +248,15 @@ img {
   border-radius: .5rem;
   transition: .3s;
 }
+.button__secondary {
+  display: inline-block;
+  background-color: var(--second-color);
+  color: #fff;
+  padding: .75rem 2.5rem;
+  font-weight: var(--font-semi);
+  border-radius: .5rem;
+  transition: .3s;
+}
 
 .button:hover {
   box-shadow: 0px 10px 36px rgba(0, 0, 0, 0.15);
