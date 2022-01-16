@@ -4,7 +4,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://OnHamza2TV.me/" target="_blank"><img src="assets/img/screen.png">
+    <a href="https://OnHamza2TV.me/" target="_blank"><img src="assets/img/preview.png">
   </a>
   </kbd>
 </p>
