@@ -537,3 +537,8 @@ img {
     width: 450px;
   }
 }
+
+twitch-embed {
+        width: 854,
+        height: 480,
+}
