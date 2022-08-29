@@ -285,13 +285,18 @@ img {
 .skills__container {
   row-gap: 2rem;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .skills__subtitle {
+  text-align: center;
   margin-bottom: var(--mb-2);
 }
 
 .skills__text {
+  text-align: center;
   margin-bottom: var(--mb-4);
 }
 
